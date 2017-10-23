@@ -16,26 +16,6 @@ I finished Lesson 2 and started to Lesson 3 on the Udacity course.
   
 ---
 
-## Week 2 (Oct 10)
----
-
-+ [Here](files/URA_homework_1.html) is my 5 interesting R examples. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Example Progress Journal
 
 ## Week 2 (Oct 10)
 
