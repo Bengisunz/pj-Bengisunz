@@ -3,7 +3,7 @@
 
 ## Week 5 (Nov 20)
 
-+ l've tried to do recap exercise of dplyr package with weather data of four travel destinations that you can [Here](https://mef-bda503.github.io/files/tidyverse_recap_p1.html). You can find my solutions [Here](Travel_Weather_Exercise.html). I haven't done all the task yet. l am studying on R packages from other resources. 
++ l've tried to do recap exercise of dplyr package with weather data of four travel destinations that you can [Here](https://mef-bda503.github.io/files/tidyverse_recap_p1.html). You can find my solutions [Here](files/Travel_Weather_Exercise.html). I haven't done all the task yet. l am studying on R packages from other resources. 
 
 
 
