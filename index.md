@@ -1,7 +1,11 @@
 
 # Progress Journal
+## Week 5 (Nov 21)
 
-## Week 5 (Nov 20)
+[Here](diamonds_price_prediction_r_markdownfile_v3.htm) is my analysis on Assignment 3: Diamonds Data
+
+
+## Week 4 (Nov 7)
 
 + l've tried to do recap exercise of dplyr package with weather data of four travel destinations that you can [Here](https://mef-bda503.github.io/files/tidyverse_recap_p1.html). You can find my solutions [Here](files/Travel_Weather_Exercise.html). I haven't done all the task yet. l am studying on R packages from other resources. 
 
