@@ -1,5 +1,6 @@
 
 # Progress Journal
+
 ## Week 5 (Nov 21)
 
 [Here](files/diamonds_price_prediction_r_markdownfile_v3.html) is my analysis on Assignment 3: Diamonds Data
