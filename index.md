@@ -1,6 +1,10 @@
 
 # Progress Journal
 
+## DataSet used in Final
+
+[Here] (https://github.com/MEF-BDA503/pj-Bengisunz/blob/master/files/foreignstudentstr.RData) is the data set that l used in final exam.
+
 ## Week 5 (Nov 21)
 
 [Here](files/diamonds_price_prediction_r_markdownfile_v3.html) is my analysis on Assignment 3: Diamonds Data
