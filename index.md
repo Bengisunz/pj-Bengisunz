@@ -3,7 +3,7 @@
 
 ## DataSet used in Final
 
-[Here] (https://github.com/MEF-BDA503/pj-Bengisunz/blob/master/files/foreignstudentstr.RData) is the data set that l used in final exam.
+[Here](https://github.com/MEF-BDA503/pj-Bengisunz/blob/master/files/foreignstudentstr.RData) is the data set that l used in final exam.
 
 ## Week 5 (Nov 21)
 
