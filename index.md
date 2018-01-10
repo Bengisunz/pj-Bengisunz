@@ -7,7 +7,7 @@
 
 ## Final Week (Jan 7)
 
-[Here](https://github.com/MEF-BDA503/pj-Bengisunz/blob/master/files/foreignstudentstr.RData) is the data set that l used for the third question of final exam.
+[Here](https://github.com/MEF-BDA503/pj-Bengisunz/blob/master/files/foreignstudentstr.RData) is the data set that l used for the third question of final exam. The data set is about the numbers of foreign students based on their nationality. 
 
 ## Week 5 (Nov 21)
 
