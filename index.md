@@ -1,7 +1,7 @@
 
 # Progress Journal
 
-## Final
+## Final Project
 
 [Here](https://github.com/MEF-BDA503/pj-Bengisunz/blob/master/files/Bengisu_Final_03.html) is the final exam.
 
