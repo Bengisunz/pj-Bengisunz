@@ -3,7 +3,7 @@
 
 ## Final Project
 
-[Here](https://github.com/MEF-BDA503/pj-Bengisunz/blob/master/files/Bengisu_Final_03.html) is the final paper.
+[Here](files/Bengisu_Final_03.html) is the final paper.
 
 [Here](https://github.com/MEF-BDA503/pj-Bengisunz/blob/master/files/foreignstudentstr.RData) is the data set that l used in final exam.
 
