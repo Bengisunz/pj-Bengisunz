@@ -1,11 +1,13 @@
 
 # Progress Journal
 
-## Final Project
+## Final Week (Jan 10)
 
 [Here](files/Bengisu_Final_03.html) is the final paper.
 
-[Here](https://github.com/MEF-BDA503/pj-Bengisunz/blob/master/files/foreignstudentstr.RData) is the data set that l used in final exam.
+## Final Week (Jan 7)
+
+[Here](https://github.com/MEF-BDA503/pj-Bengisunz/blob/master/files/foreignstudentstr.RData) is the data set that l used for the third question of final exam.
 
 ## Week 5 (Nov 21)
 
